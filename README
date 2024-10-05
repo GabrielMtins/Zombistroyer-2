@@ -1,0 +1,5 @@
+To run this program, you need to install to the following command:
+
+$ sudo apt install libsdl2-2.0-0 libsdl2-image-2.0-0 libsdl2-mixer-2.0-0 libsdl2-ttf-2.0-0
+
+These are the dependencies to the program.
